@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SoundSharp_Class_Library___Sprint_11
+namespace SoundSharp_Classlib
 {
 
 }
