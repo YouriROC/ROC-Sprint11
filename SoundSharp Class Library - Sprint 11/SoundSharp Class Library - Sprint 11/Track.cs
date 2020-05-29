@@ -48,6 +48,7 @@ namespace SoundSharp_Classlib
 
     public struct Time
     {
+        //Seconds property
         private int seconds;
 
         public int Seconds
@@ -56,6 +57,7 @@ namespace SoundSharp_Classlib
             set { seconds = value; }
         }
 
+        //Minutes property
         private int minutes;
 
         public int Minutes
@@ -64,6 +66,7 @@ namespace SoundSharp_Classlib
             set { minutes = value; }
         }
 
+        //Hours property
         private int hours;
 
         public int Hours
